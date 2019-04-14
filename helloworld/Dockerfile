@@ -1,2 +1,2 @@
-From centos
+FROM centos
 CMD [ "/bin/echo", "hello world" ]
