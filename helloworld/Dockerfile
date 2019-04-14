@@ -1,2 +1,2 @@
 FROM centos
-CMD [ "/bin/echo", "hello world" ]
+CMD [ "/bin/echo", "hello world2" ]
